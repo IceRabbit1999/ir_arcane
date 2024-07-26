@@ -6,6 +6,7 @@ repository = "https://github.com/IceRabbit1999/ir_arcane"
 homepage = "https://github.com/IceRabbit1999/ir_arcane"
 readme = "README.md"
 description = "This crate is a personal mcaro library, not for public use(yet)"
+license = "MIT OR Apache-2.0"
 
 [lib]
 proc-macro = true
