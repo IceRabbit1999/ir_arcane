@@ -1,6 +1,6 @@
 [package]
 name = "ir_arcane"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 repository = "https://github.com/IceRabbit1999/ir_arcane"
 homepage = "https://github.com/IceRabbit1999/ir_arcane"
@@ -15,4 +15,3 @@ proc-macro = true
 proc-macro2 = "1.0.81"
 quote = "1.0"
 syn2 = { version = "2.0", package = "syn", features = ["derive", "parsing", "printing", "clone-impls", "proc-macro", "extra-traits", "full",] }
-ir_aquila = "0.0.1"
