@@ -1,6 +1,6 @@
 [package]
 name = "ir_arcane"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2021"
 repository = "https://github.com/IceRabbit1999/ir_arcane"
 homepage = "https://github.com/IceRabbit1999/ir_arcane"
